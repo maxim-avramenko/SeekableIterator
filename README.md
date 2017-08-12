@@ -72,7 +72,8 @@
 
 Для работы команды в обычном приложении Yii 1 необходимо унаследоваться от CConsoleCommand
 
-    class SeekCommand extends CConsoleCommand {
+    class SeekCommand extends CConsoleCommand 
+    {
     
     ....
     
